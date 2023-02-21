@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wee Li</h1>
 <h3 align="center">A passionate software engineer. Possesses proven development experience through completing various applications displayed.</h3>
 
-- 🔭 I’m currently looking for new opportunities **in software engineering**
+- 🔭 I’m currently looking for new opportunities in **software engineering**
 
 - 👨‍💻 All of my projects are available at [http://bit.ly/weeliportfolio](http://bit.ly/weeliportfolio)
 
 - 📫 How to reach me **weeli.tn@gmail.com**
 
-- ⚡ Fun fact **I love to travel and cook!**
+- ⚡ Fun fact: **I love to travel and cook!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/weeli-tan/</h3>
 <p align="left">
 </p>
 
