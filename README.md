@@ -1,5 +1,5 @@
 # 💫 About Me:
-An aspiring software engineer with knowledge and skills in software engineering practices such as programming, testing, deployment, etc.  Passionate, willing to learn with strong ability to communicate with clients and ability to work in a team.<br><br>🔭 I’m currently looking for new opportunities in software engineering<br>👨‍💻 My projects' demo are available at http://bit.ly/weeliportfolio<br>📫 How to reach me weeli.tn@gmail.com<br>⚡ Fun fact: I love to travel and cook!I used to be a Google Ambassador too!
+An aspiring software engineer with knowledge and skills in software engineering practices such as programming, testing, deployment, etc.  Passionate, willing to learn with strong ability to communicate with clients and ability to work in a team.<br><br>🔭 I’m currently looking for new opportunities in software engineering<br>👨‍💻 My projects' demo are available at http://bit.ly/weeliportfolio<br>📫 How to reach me weeli.tn@gmail.com<br>⚡ Fun fact: I love to travel and cook! I used to be a Google Ambassador too!
 
 
 ## 🌐 Socials:
